@@ -4,7 +4,7 @@
 
 #### 1) Editar configurações:
 > git config --global core.editor code
-> git config --global --edit
+git config --global --edit
 
 #### 2) Atalhos utilizados (git status, git log e git commit):
 
