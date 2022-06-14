@@ -21,3 +21,7 @@ git log:
 git status e commit:
 
 ![atalho-do-git-commit](/assets/git-status-commit.png)
+
+---
+
+Eslint para Typescript: [Link](https://www.npmjs.com/package/eslint-config-standard-with-typescript)
