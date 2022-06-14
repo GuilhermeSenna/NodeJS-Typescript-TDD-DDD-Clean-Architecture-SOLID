@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/GuilhermeSenna/NodeJS-Typescript-TDD-DDD-Clean-Architecture-SOLID/issues"
   },
-  "homepage": "https://github.com/GuilhermeSenna/NodeJS-Typescript-TDD-DDD-Clean-Architecture-SOLID#readme"
+  "homepage": "https://github.com/GuilhermeSenna/NodeJS-Typescript-TDD-DDD-Clean-Architecture-SOLID#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.3"
+  }
 }
