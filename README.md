@@ -8,7 +8,7 @@
 
 #### 2) Atalhos utilizados (git status, git log e git commit):
 
-![configurações do git](/assets/git configs.png)
+![configurações do git](assets/git configs.png)
  
 #### 3) Exemplos de uso:
 
