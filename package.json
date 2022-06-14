@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-typescript-tdd-ddd-clean-architecture-solid",
+  "version": "1.0.0",
+  "description": "> git config --global core.editor code\r git config --global --edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeSenna/NodeJS-Typescript-TDD-DDD-Clean-Architecture-SOLID.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeSenna/NodeJS-Typescript-TDD-DDD-Clean-Architecture-SOLID/issues"
+  },
+  "homepage": "https://github.com/GuilhermeSenna/NodeJS-Typescript-TDD-DDD-Clean-Architecture-SOLID#readme"
+}
