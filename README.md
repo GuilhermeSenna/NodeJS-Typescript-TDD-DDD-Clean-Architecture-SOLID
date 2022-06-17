@@ -24,4 +24,10 @@ git status e commit:
 
 ---
 
+#### Dicas: 
+
+Commit TDD: Primeiro commitar somente o(s) arquivo(s) de produção para depois o de teste (evita erro de compilação).
+
+---
+
 Eslint para Typescript: [Link](https://www.npmjs.com/package/eslint-config-standard-with-typescript)
